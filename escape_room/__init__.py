@@ -1,1 +1,1 @@
-"""AI Escape Room - a small LLM text game (course mini-project)."""
+"""A lightweight text-based Escape Room game powered by an LLM, developed as a course mini-project."""
